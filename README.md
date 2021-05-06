@@ -8,6 +8,6 @@
 
 <h2>GitHub Stats</h2>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ArdaGnsrn&show_icons=true" alt="Arda Günsüren GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArdaGnsrn&show_icons=true&count_private=true" alt="Arda Günsüren GitHub Stats">
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArdaGnsrn&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
 </p>
