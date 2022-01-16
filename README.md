@@ -12,8 +12,8 @@
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArdaGnsrn&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
 </p>
 
-<h2>Projects</h2>
+<h2>Personal Page</h2>
 <p>
-  <a href="https://nesordun.com">nesordun.com</a>
+  <a href="https://www.ardagunsuren.com">ardagunsuren.com</a>
 </p>
 
